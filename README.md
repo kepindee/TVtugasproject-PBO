@@ -1,6 +1,6 @@
 # Tugas PBO Pertemuan 2
 
-## Pemrograman Berorientasi Objek (TVProject)
+## Pemrograman Berorientasi Objek
 
 Repositori tugas Pemrograman Berorientasi Objek (PBO) untuk pertemuan 2
 
